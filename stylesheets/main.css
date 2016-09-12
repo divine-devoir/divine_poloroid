@@ -1,0 +1,98 @@
+body {
+  background-color: #ffddcc;
+  border-top: 10px solid #ccffee;
+  color: #964b00;
+  border-bottom: 10px solid #ccffee;
+  border-right: 100px solid #ccffee;
+  border-left: 100px solid #ccffee; }
+
+img {
+  opacity: 0.5; }
+
+.wrapper {
+  text-align: center; }
+
+.divine {
+  font-family: 'Great Vibes', cursive;
+  font-size: 40px; }
+
+.heaven {
+  font-family: 'Cinzel', serif;
+  font-size: 27px; }
+
+.vine {
+  border-top: 10px solid #ccffee;
+  border-bottom: 10px solid #cbfffa;
+  border-right: 100px solid #ccffee;
+  border-left: 100px solid #ccffee;
+  padding: 10px 0px 10px 0px;
+  margin: 10px 0px 10px 0px;
+  text-align: center;
+  transform: rotate(12deg); }
+
+/*.images{
+  border-top: 2px solid #feb4b1;
+  border-bottom:  2px solid #ccffee;
+  border-left: 100px solid #ccffee;
+  border-right:  100px solid #ccffee;
+}
+.border{
+  border-top: 20px solid #ccffee;
+}
+.heart{
+
+}
+.light{
+}
+.light:hover{
+  opacity:0.5;
+}
+.wrapper{
+  text-align: center;
+}
+.logo{
+  display: inline-block;
+  padding: 10px;
+}
+*/
+#polaroid {
+  margin: 60px auto;
+  border: 25px solid #e3e4d3;
+  border-bottom-width: 80px;
+  transition: 3s box-shadow ease-in;
+  box-shadow: 0 0 150px 50px #1d1904 inset, 0 0 3px 6px rgba(0, 0, 0, 0.07);
+  width: 30%;
+  padding-top: 5%;
+  padding-bottom: 20px;
+  background-size: cover;
+  filter: sepia(50%); }
+  #polaroid p {
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px; }
+
+#polaroid2 {
+  margin: -600px auto;
+  border: 25px solid #e3e4d3;
+  border-bottom-width: 80px;
+  transition: 3s box-shadow ease-in;
+  box-shadow: 0 0 150px 50px #1d1904 inset, 0 0 3px 6px rgba(0, 0, 0, 0.07);
+  width: 30%;
+  padding-top: 5%;
+  padding-bottom: 20px;
+  background-size: cover;
+  filter: sepia(50%);
+  position: absolute;
+  transform: rotate(12deg); }
+  #polaroid2 p {
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px; }
+
+#polaroid2:hover {
+  box-shadow: 0 0 100px 0 rgba(29, 25, 4, 0.8) inset, 0 0 3px 6px rgba(0, 0, 0, 0.07);
+  filter: sepia(20%); }
+
+#polaroid:hover {
+  box-shadow: 0 0 100px 0 rgba(29, 25, 4, 0.8) inset, 0 0 3px 6px rgba(0, 0, 0, 0.07);
+  filter: sepia(20%); }
+
+/*# sourceMappingURL=main.css.map */
